@@ -1,0 +1,10 @@
+int attr columnCount 0x7f010000
+int attr mode 0x7f010001
+int dimen header_footer_left_right_padding 0x7f020000
+int dimen header_footer_top_bottom_padding 0x7f020001
+int dimen indicator_corner_radius 0x7f020002
+int dimen indicator_internal_padding 0x7f020003
+int dimen indicator_right_padding 0x7f020004
+int[] styleable StaggeredGridView { 0x7f010000, 0x7f010001 }
+int styleable StaggeredGridView_columnCount 0
+int styleable StaggeredGridView_mode 1

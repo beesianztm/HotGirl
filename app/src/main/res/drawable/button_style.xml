@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_pressed="true"
+        android:drawable="@drawable/ic_add_favourite"
+        android:tint="@android:color/holo_green_light"
+        />
+    <item
+        android:state_focused="true"
+        android:drawable="@drawable/ic_add_favourite"
+       />
+    <item
+        android:tint="#c0c0c0"/>
+</selector>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HotGirl</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="info">Info</string>
+    <string name="share">Share</string>
+    <string name="loading_more">Loading more images..</string>
+    <string name="add_favr">Added to Favorites</string>
+    <string name="remove_favr">Removed from Favorites</string>
+    <string name="favorites">Favorites</string>
+    <string name="no_favorites_items"> No Favorites</string>
+    <string name="no_favorites_msg"> No Favourite items added. Press OK back to Home Screen.</string>
+</resources>

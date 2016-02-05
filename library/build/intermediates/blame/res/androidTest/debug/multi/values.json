@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "/Users/beesian/Desktop/Project HotGirl/HotGirl_v11/library/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 63,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "/Users/beesian/Desktop/Project HotGirl/HotGirl_v11/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endColumn": 63,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 63,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "/Users/beesian/Desktop/Project HotGirl/HotGirl_v11/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 63,
+                        "endOffset": 325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 54,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "/Users/beesian/Desktop/Project HotGirl/HotGirl_v11/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 54,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 385,
+                    "endColumn": 56,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "/Users/beesian/Desktop/Project HotGirl/HotGirl_v11/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 385,
+                        "endColumn": 56,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 54,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "/Users/beesian/Desktop/Project HotGirl/HotGirl_v11/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 54,
+                        "endOffset": 492
+                    }
+                }
+            }
+        ]
+    }
+]

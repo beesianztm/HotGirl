@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/recent_picture"
+            android:icon="@drawable/ic_recent"
+            android:title="Recent"
+            />
+        <item
+            android:id="@+id/hot_girl"
+            android:icon="@drawable/ic_hotgirl"
+            android:title="Hot Girl"
+           />
+        <item
+            android:id="@+id/asian_girl"
+            android:icon="@drawable/ic_asiangirl"
+            android:title="Asian Girl" />
+        <item
+            android:id="@+id/favourite_girl"
+            android:icon="@drawable/ic_favourite"
+            android:title="Favourite" />
+
+    </group>
+
+</menu>
